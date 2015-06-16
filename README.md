@@ -2,8 +2,8 @@
 
 ## Contents
 
-* .gitignore_global - Machine-wide exludes
-* .gitignore - Template `.gitignore` for individual project repo's
+* `.gitignore_global` - Machine-wide exludes
+* `.gitignore` - Template `.gitignore` for individual project repo's
 
 ## Templates taken from
 
