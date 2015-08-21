@@ -24,6 +24,12 @@ to make git start using this system-wide `.gitignore`.
 
 ### General Advice
 
+The cleanest way to clone an existing remote repo to a folder on your machine is to create the folder, `cd` into it and then run:
+```
+git clone https://github.com/User/YourRepo.git .
+```
+This is much simpler than trying to use the GitHub GUI client.
+
 To stop tracking an existing, already tracked file, once you have added it to .gitignore, e.g. `error_log`, run
 ```
 git rm --cached *error_log
