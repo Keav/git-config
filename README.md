@@ -12,7 +12,7 @@
 
 ## Instructions
 
-Using a global `.gitignore` for your specific development environment and set of tools minimises confustion and complexity with other developers, who may use different tools.
+Using a global `.gitignore` for your specific development environment and set of tools minimises confusion and complexity with other developers, who may use different tools.
 
 It also means that your individual project `.gitignore`'s, that are incuded in your repo, can be much more concise and specific.
 
