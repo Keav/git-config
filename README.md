@@ -1,5 +1,9 @@
 # Scaffold Git Projects
 
+Get GitHub Desktop Client
+
+https://desktop.github.com/
+
 ## Contents
 
 * `.gitignore_global` - Machine-wide exludes
